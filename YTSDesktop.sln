@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YTSDesktop", "YTSDesktop\YTSDesktop.csproj", "{0D3BD1D3-4FFD-43E7-8E3A-B9763B5462F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D3BD1D3-4FFD-43E7-8E3A-B9763B5462F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3BD1D3-4FFD-43E7-8E3A-B9763B5462F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3BD1D3-4FFD-43E7-8E3A-B9763B5462F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3BD1D3-4FFD-43E7-8E3A-B9763B5462F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ECC0635-059A-498A-8FE8-3607BDA6AF10}
+	EndGlobalSection
+EndGlobal
